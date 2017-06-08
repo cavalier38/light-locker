@@ -8,7 +8,7 @@
 
 #include "ll-config.h"
 
-#define LIGHT_LOCKER_SCHEMA          "apps.light-locker"
+#define LIGHT_LOCKER_SCHEMA          "org.the-cavalry.light-locker"
 
 /* Property identifiers */
 enum

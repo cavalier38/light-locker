@@ -642,7 +642,7 @@ Makefile
 po/Makefile.in
 src/Makefile
 data/Makefile
-data/apps.light-locker.gschema.xml.in
+data/org.the-cavalry.light-locker.gschema.xml.in
 ])
 
 echo "

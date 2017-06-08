@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="light-locker">
 
-  <schema id="apps.light-locker" path="/apps/light-locker/">
+    <schema id="org.the-cavalry.light-locker" path="/org/the-cavalry/light-locker/">
 
     <key name="lock-on-suspend" type="b">
       <default>@LOCK_ON_SUSPEND_DEFAULT@</default>
